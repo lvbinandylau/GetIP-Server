@@ -6,7 +6,7 @@ spring:
     name: server
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://127.0.0.1:3306/ip?useUnicode=true&characterEncoding=utf-8&useSSL=true&serverTimezone=GMT
+    url: jdbc:mysql://127.0.0.1:3306/ip?useUnicode=true&characterEncoding=utf-8&useSSL=true&serverTimezone=Asia/Shanghai
     username: root
     password: Lvbin@48777742
     druid:
